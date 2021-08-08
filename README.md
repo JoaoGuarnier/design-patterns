@@ -31,6 +31,11 @@ Criacionais
      responsabilidades entre objetos.
      
      
+     Strategy, Chain of Responsibility, Template Method, State...
+     
+
+     
+     
      
 # Links úteis    
 
